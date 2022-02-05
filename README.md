@@ -9,7 +9,7 @@
 <a href="##"><img title="SELF-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&color=blue"></a>
 </p>
 <p align="center">
-  <a href=https://github.com/mianafzaal/SPARK-BOT/edit/master/README.md
+  <a href=https://https://github.com/mianafzaal/SPARK-BOT/edit/master/README.md
 </p>
 <p align="center">
 <a href="#"><img title="Xeon" src="https://img.shields.io/static/v1?label=WHATSAPP&message=Automated-Bot&color=blue"></a>
