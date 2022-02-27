@@ -23,7 +23,7 @@ Had 5+ stars and 90+ forks, please dont forget to give star before forking.🙏�
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@pepesir/PEPE-SIR-Qr-code?v=1) 
 
 ## Deploy
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/DogeBot/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mianafzaal/DogeBot/)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
@@ -76,7 +76,7 @@ heroku/nodejs
 ## Connect With Me
 My Personal Chat👇
 <p align="center">
- <a href="https://wa.me/+916909137213"><img alt="WhatsApp Personal Chat" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+ <a href="https://wa.me/+923430436852"><img alt="WhatsApp Personal Chat" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 </p>
 
 My Whatsapp Group👇
@@ -88,4 +88,4 @@ My Whatsapp Group👇
 
 # Thanks To
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
-* [`Xeon`](https://github.com/DGXeon)
+* [`Xeon`](https://github.com/mianafzaal)
